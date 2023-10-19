@@ -1,0 +1,24 @@
+.heading{
+    font-size: 24px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 5px grey;
+    text-shadow: 2px 2px green;
+}
+.note{
+    font-size: 18px;
+    color: black;
+}
+.rodape{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgba(0, 255, 255, 0.661);
+    color: rgb(0, 98, 128);
+}
+canvas{
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    box-shadow:10px 5px gray;
+}
